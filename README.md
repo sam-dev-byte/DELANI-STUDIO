@@ -1,4 +1,4 @@
-# MY PORTFOLIO
+# DELANI STUDIO
 #### Created by : [gift sam]
 ## description
 This is a knew project for a fictional site known as the Delani project as a way to practice and identify with programing
